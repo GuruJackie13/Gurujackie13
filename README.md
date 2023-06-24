@@ -1,7 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Roderrick! <br/><a href="https://github.com/GuruJackie13/Gurujackie13">Aspiring Cybersecurity Professional</a>,<a href=https://www.linkedin.com/in/roderrick-roberts/>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Azure/ Cloud Projects</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/GuruJackie13/Azure_SOC)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+https://www.linkedin.com/in/roderrick-roberts/
 
 <!--
-**GuruJackie13/Gurujackie13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
